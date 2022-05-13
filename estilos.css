@@ -1,0 +1,36 @@
+body {
+font-weight: bold;
+/*color: white;*/
+}
+
+
+ul { margin: 0; 
+	padding: 0; 	
+	list-style: none;
+	width: 720px; 
+	border: solid 0px green;
+	float: left;
+	
+}
+
+
+ul li {
+
+background-color: orange;
+
+float:left; }
+
+
+
+ul a { display: block;
+padding: 0 2em;
+line-height: 2.1em;
+text-decoration: none;
+color: white;
+font-weight: bold;
+border-left: #CCC solid thin;
+}
+ul a:hover { color: #333;
+}
+
+ul .primeiroli a {border-left: none; }
